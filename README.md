@@ -88,7 +88,7 @@ The notebook is structured into multiple tasks (cells), each covering an aspect 
    
 2. Install required dependencies (if not already installed):
 
-   ```pip install pyspark pandas matplotlib
+   pip install pyspark pandas matplotlib
 
 
 3. Place the dataset (employees.csv) in the project root folder (or update the file path in code).
