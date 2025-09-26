@@ -99,13 +99,13 @@ The notebook is structured into multiple tasks (cells), each covering an aspect 
 
 ## Results
 
-Clean and enriched employee dataset with salary bonus applied.
+~ Clean and enriched employee dataset with salary bonus applied.
 
-Insights into salary ranges, department averages, and employee demographics.
+~ Insights into salary ranges, department averages, and employee demographics.
 
-Exported processed dataset for reuse.
+~ Exported processed dataset for reuse.
 
-Visual representation of employee statistics.
+~ Visual representation of employee statistics.
 
 ---
 
